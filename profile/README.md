@@ -16,6 +16,8 @@ Doku is an open-source observability tool designed to collect and understand the
 - **OpenAI**
 - **Cohere**
 - **Anthropic**
+- **Mistral**
+- **Azure OpenAI**
 
 We plan to extend our support to more LLMs, always refining observability.
 
