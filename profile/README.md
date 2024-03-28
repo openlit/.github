@@ -1,15 +1,15 @@
 # Doku: Open Source LLM Observability
 
-Doku is an open-source observability tool designed to collect and understand the usage of Large Language Models (LLMs). Our tooling is crafted for enthusiasts and developers seeking to monitor and understand their LLM interactions more deeply.
+Doku is an open-source observability tool designed to monitor and evaluate the usage of Large Language Models (LLMs) in your Applications. 
 
 ![Doku Banner](https://raw.githubusercontent.com/dokulabs/.github/main/profile/assets/banner.gif)
 
 ## Key Features
 
-- **Dokumetry SDKs**: Lightweight and easy-to-integrate SDKs aimed at simplifying the collection of LLM usage data.
-- **Low Latency**: The `dokumetry` SDKs and Doku Platform are built with latency at mind and can process your LLM call usage data in small time
-- **Doku Platform(coming soon!)**: Doku platform to show comprehensible visual dashboards tailored for LLMs.
-- **Data Exportability**: Flexibility to export LLM Observability data to your preferred observability tools, like Grafana Cloud.
+- **Dokumetry SDKs**: Lightweight and easy-to-integrate SDKs (`dokumetry`) aimed at simplifying the collection of LLM usage data.
+- **Zero Latency**: The `dokumetry` SDKs are built with latency at mind and can process your LLM call usage data
+- **Doku UI**: Doku UI to show comprehensible visual dashboards tailored for LLMs.
+- **Data Exportability**: Flexibility to export LLM Observability data to your preferred observability tools, like Grafana, DataDog and more.
 
 ### Broad LLM Support:
 
@@ -19,7 +19,7 @@ Doku is an open-source observability tool designed to collect and understand the
 - **Mistral**
 - **Azure OpenAI**
 
-We plan to extend our support to more LLMs, always refining observability.
+We plan to extend our support to more LLMs and Vector Databases.
 
 ### Community-First Approach:
 
