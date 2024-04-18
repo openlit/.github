@@ -1,4 +1,4 @@
-# OpenLIT: OpenTelemetry-native GenAI & LLM Application Observability
+# OpenLIT: OpenTelemetry-native LLM Application Observability
 
 OpenLIT is an open-source observability tool designed to monitor and evaluate the usage of Large Language Models (LLMs) in your Applications. 
 
