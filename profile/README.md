@@ -2,7 +2,7 @@
 
 Doku is an open-source observability tool designed to monitor and evaluate the usage of Large Language Models (LLMs) in your Applications. 
 
-![Doku Banner](https://raw.githubusercontent.com/dokulabs/.github/main/profile/assets/banner.gif)
+![OpenLIT Banner](https://github.com/dokulabs/.github/blob/main/profile/assets/github-readme-main-banner.png?raw=true)
 
 ## Key Features
 
