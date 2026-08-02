@@ -1,1 +1,1 @@
-![OpenLIT Banner](https://github.com/dokulabs/.github/blob/main/profile/assets/openlit-main-banner.png?raw=true)
+![OpenLIT Banner](https://github.com/user-attachments/assets/98dd0856-1e47-496d-9352-803a79b5efe1)
